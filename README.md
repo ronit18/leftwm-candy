@@ -19,4 +19,4 @@ ttf-meslo-nerd-font-powerlevel10k
 rofi-theme-fonts
 polybar `
 
-##Just copy this git repo and paste it in ~/.config/
+Just copy this git repo and paste it in ~/.config/
